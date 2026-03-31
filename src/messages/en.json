@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "gallery": "Gallery",
+    "athletes": "Athletes",
+    "results": "Results",
+    "partners": "Partners",
+    "register": "Register",
+    "registerNow": "Register Now"
+  },
+  "hero": {
+    "badge": "Official event 2026",
+    "title": "Tibhirine 10KM Race",
+    "location": "Draa Essamar – Médéa, Algeria",
+    "subtitle": "A modern race management platform for registrations, athlete management, results, and full event administration.",
+    "cta": "Register Now",
+    "secondary": "Explore the race"
+  },
+  "raceInfo": {
+    "title": "Race information",
+    "distance": "Distance • 10KM",
+    "description": "The Tibhirine 10KM Race is designed as a premium sporting experience with complete digital management, stronger security, and a modern multilingual interface.",
+    "rulesTitle": "Main rules",
+    "rules": [
+      "Each participant must provide payment proof.",
+      "Phone number is the unique registration identifier.",
+      "Only approved athletes appear in the public list.",
+      "Categories are calculated automatically from age and gender."
+    ]
+  },
+  "common": {
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "footer": {
+    "text": "© 2026 Tibhirine 10KM Race – Draa Essamar, Médéa, Algeria."
+  }
+}
